@@ -1,0 +1,30 @@
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: burlywood;
+}
+
+h1 {
+  color: brown;
+  align-content: center;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.main {
+  border-style: dashed;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: blue;
+  padding: 10px;
+}
